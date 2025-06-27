@@ -20,6 +20,7 @@ A escolha de tamanhos será feita no ato da compra do ingresso.
 | # | Cidades atendidas (rota)                      | Mínimo de passageiros | Lotação total\*                               | Local de saída                  | Horário de saída | Horário previsto de chegada |
 | - | --------------------------------------------- | --------------------- | --------------------------------------------- | ------------------------------- | ---------------- | --------------------------- |
 | 1 | Guarapuava → Campo Mourão → Maringá           | 21                    | 41                                            | **Guarapuava**: à definir <br> **Campo Mourão**:  à definir    | **Guarapuava**: à definir <br> **Campo Mourão**:  à definir  | **Guarapuava**: à definir <br> **Campo Mourão**:  à definir             |
+| 2 | Curitiba → Ponta Grossa → Maringá           | 23                    | 39                                            | **Curitiba**: à definir <br> **Ponta Grossa**:  à definir    | **Curitiba**: à definir <br> **Ponta Grossa**:  à definir  | **Curitiba**: à definir <br> **Ponta Grossa**:  à definir             |
 
 
 Observação: Se desejar organizar uma nova rota ou alterar horários/pontos, contate **comunidade@devpr.org**.
