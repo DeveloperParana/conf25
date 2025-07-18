@@ -1,6 +1,8 @@
 # TERMO DE ADESÃO E RESPONSABILIDADE – CARAVANAS DEVPR CONF 25
 (v. 1.0 – 24 jun 2025)
 
+Para se inscrever, acesse: https://doity.com.br/devpr-conf-25?c=CARAVANA
+
 ### 1. O que o ingresso garante
 O valor pago cobre (i) o transporte rodoviário desde o ponto de encontro oficial na cidade de origem até o local da DevPR Conf 25, 
 (ii) o ingresso para o evento e 
@@ -22,6 +24,7 @@ A escolha de tamanhos será feita no ato da compra do ingresso.
 | 1 | Guarapuava → Campo Mourão → Maringá           | 21                    | 41                                            | **Guarapuava**: à definir <br> **Campo Mourão**:  à definir    | **Guarapuava**: à definir <br> **Campo Mourão**:  à definir  | **Guarapuava**: à definir <br> **Campo Mourão**:  à definir             |
 | 2 | Curitiba → Ponta Grossa → Maringá           | 23                    | 39                                            | **Curitiba**: à definir <br> **Ponta Grossa**:  à definir    | **Curitiba**: à definir <br> **Ponta Grossa**:  à definir  | **Curitiba**: à definir <br> **Ponta Grossa**:  à definir             |
 
+Para se inscrever, acesse: https://doity.com.br/devpr-conf-25?c=CARAVANA
 
 Observação: Se desejar organizar uma nova rota ou alterar horários/pontos, contate **comunidade@devpr.org**.
 
